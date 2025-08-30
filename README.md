@@ -1,25 +1,17 @@
-# py-dictionary-CLI
-Mini Dictionary CLI – a personal Python project to practice translating words and sentences self learning
+# Mini Dictionary CLI
 
-Mini Dictionary CLI
+A simple Python project I built to practice what I’ve learned.  
+This CLI tool lets you:
+- Translate words
+- Translate sentences
+- Take quick vocabulary quizzes
 
-A simple Python project I built to practice what I’ve learned.
-
-Features
-
-Translate words
-
-Translate sentences
-
-Take quick vocabulary quizzes
-
-Data is stored in a data.json file for easy management.
+Data is stored in a JSON file (`data.json`) for easy management.  
 Mainly a self-learning project, for fun and portfolio showcase.
 
-Installation & Usage
-# clone repo
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+## Installation & Usage
 
-# run the program
+```bash
+git clone https://github.com/Khanshs/py-dictionary-CLI.git
+cd py-dictionary-CLI
 python main.py
