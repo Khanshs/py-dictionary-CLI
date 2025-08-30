@@ -37,7 +37,9 @@ $ python main.py
     2. Translate a sentence
     3. Vocabulary quiz
     0. Exit program
-Your choice:
+Your choice:1
+Enter word: hello
+Result: xin chào
 
 ```
 ## Notes
