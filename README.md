@@ -7,7 +7,7 @@ All dictionary entries are stored in a JSON file.
 ---
 
 ## Features
-- Translate words and sentences  
+- Translate words and sentences at basic level
 - Vocabulary quiz mode  
 - Dictionary entries stored in `data.json`  
 - **Auto-save unknown words** for later review  
