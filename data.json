@@ -1,5 +1,10 @@
 [
   {
+    "word": "hello",
+    "type": "verb",
+    "meaning": "xin chào"
+  }
+  {
     "word": "i",
     "type": "pronoun",
     "meaning": "tôi"
@@ -109,4 +114,5 @@
     "type": "verb",
     "meaning": "làm"
   }
+
 ]
