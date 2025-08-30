@@ -1,0 +1,112 @@
+[
+  {
+    "word": "i",
+    "type": "pronoun",
+    "meaning": "tôi"
+  },
+  {
+    "word": "sleep",
+    "type": "verb",
+    "meaning": "ngủ"
+  },
+  {
+    "word": "dog",
+    "type": "noun",
+    "meaning": "chó"
+  },
+  {
+    "word": "cat",
+    "type": "noun",
+    "meaning": "mèo"
+  },
+  {
+    "word": "apple",
+    "type": "noun",
+    "meaning": "táo"
+  },
+  {
+    "word": "water",
+    "type": "noun",
+    "meaning": "nước"
+  },
+  {
+    "word": "eat",
+    "type": "verb",
+    "meaning": "ăn"
+  },
+  {
+    "word": "play",
+    "type": "verb",
+    "meaning": "chơi"
+  },
+  {
+    "word": "drink",
+    "type": "verb",
+    "meaning": "uống"
+  },
+  {
+    "word": "like",
+    "type": "verb",
+    "meaning": "thích"
+  },
+  {
+    "word": "go",
+    "type": "verb",
+    "meaning": "đi"
+  },
+  {
+    "word": "energy",
+    "type": "noun",
+    "meaning": "năng lượng"
+  },
+  {
+    "word": "dislike",
+    "type": "verb",
+    "meaning": "không thích (ghét)"
+  },
+  {
+    "word": "her",
+    "type": "noun",
+    "meaning": "cô ấy"
+  },
+  {
+    "word": "love",
+    "type": "verb",
+    "meaning": "yêu"
+  },
+  {
+    "word": "cats",
+    "type": "noun",
+    "meaning": "mèo (số nhiều)"
+  },
+  {
+    "word": "drugs",
+    "type": "noun",
+    "meaning": "thuốc (số nhiều)"
+  },
+  {
+    "word": "writting",
+    "type": "verb",
+    "meaning": "viết (đang viết)"
+  },
+  {
+    "word": "letter",
+    "type": "noun",
+    "meaning": "thư (lá thư)"
+  },
+  {
+    "word": "paint",
+    "type": "verb",
+    "meaning": "vẽ"
+  },
+  {
+    "word": "try",
+    "type": "verb",
+    "meaning": "thử"
+  },
+  {
+    "word": "do",
+    "type": "verb",
+    "meaning": "làm"
+  }
+]
