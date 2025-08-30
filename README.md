@@ -18,6 +18,7 @@ python main.py
 
 ```
 ## Demo
+```bash
 $ python main.py
 2025-08-31 15:42:10
 ------------------------------------------------------------
@@ -29,6 +30,7 @@ $ python main.py
     0. Exit program
 Your choice:
 
+```
 ## Notes
 
 - All dictionary data is stored in data.json.
